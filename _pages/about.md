@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm James Hoey and am currently working as a Teaching Fellow at the University of Leicester. In April 2020 I was offically awarded my PhD. My thesis centres on Reversible Computation of Concurrent Imperative programs, demonstrating a method of running such programs in reverse that is proved to be correct.
+I'm James Hoey and am currently working as a Lecturer in Computer Science at the University of Leicester. In April 2020 I was offically awarded my PhD. My thesis centres on Reversible Computation of Concurrent Imperative programs, demonstrating a method of running such programs in reverse that is proved to be correct.
 
 Research Interests
 ======
